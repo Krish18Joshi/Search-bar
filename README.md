@@ -15,7 +15,7 @@ As with anything related to website design, providing a positive user experience
 
 
 
-##IMAGE
+## IMAGE
 
 <img width="1440" alt="Screenshot 2022-07-19 at 4 30 01 PM" src="https://user-images.githubusercontent.com/99706585/179734952-8d8cc16d-daee-456e-9308-6dc4552ef279.png">
 
